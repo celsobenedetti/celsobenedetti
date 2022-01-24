@@ -11,6 +11,5 @@
 </p>
 
 ### How to reach me 📫
- celsobenedetti2@gmail.com
-[![Linkedin: Celso Patiri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldofarias)](https://www.linkedin.com/in/nivaldofarias)
+[![Linkedin: Celso Patiri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-patiri-916051223/)](https://www.linkedin.com/in/nivaldofarias)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:celsobenedetti2@gmail.com)](mailto:celsobenedetti2@gmail.com)
