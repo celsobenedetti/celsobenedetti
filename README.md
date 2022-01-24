@@ -10,4 +10,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=tokyonight&custom_title=Github Stats&include_all_commits=true&count_private=true" height="160px", width="350px" />
 </p>
 
-- 📫 How to reach me: celsobenedetti2@gmail.com
+### How to reach me 📫
+ celsobenedetti2@gmail.com
+[![Linkedin: Celso Patiri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivaldofarias)](https://www.linkedin.com/in/nivaldofarias)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:celsobenedetti2@gmail.com)](mailto:celsobenedetti2@gmail.com)
