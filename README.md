@@ -6,12 +6,11 @@
 
 <p align="left">
  
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celsopatiri&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="400px" />
- 
- 
 <!--
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celsopatiri&theme=tokyonight&show_icons=true&layout=default&langs_count=4" height="160px", width="400px" />
+--->
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=radical&custom_title=Github Stats&include_all_commits=true&count_private=true" height="160px", width="350px" />
- <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=radical&custom_title=Github Stats&include_all_commits=true&count_private=true" height="160px", width="300px" />   --->
+ <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=radical&custom_title=Github Stats&include_all_commits=true&count_private=true" height="160px", width="300px" />   
 </p>
 
 ### How to reach me 📫
