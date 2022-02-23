@@ -6,7 +6,7 @@
 - 🦕 I love coding, problem solving and learning new things.
 - 🌱 I'm currently practicing [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="40em" align="center" alt="React" title="React"/>]() [<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="40em" align="center" alt="Node" title="Node"/>]() [<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="40em" align="center" alt="MongoDB" title="MongoDB"/>]() among other things
 
-## Technologies & Stats
+## 🛠️ Technologies & Stats
 
 <div style="display: flex">   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=radical&custom_title=Most used languages&include_all_commits=true&count_private=true" height="180em"/>
