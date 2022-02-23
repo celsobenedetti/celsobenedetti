@@ -5,7 +5,6 @@
 - 🚀 Enrolled in a Full-Stack Web Dev Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
 - 🦕 I love coding, problem solving and learning new things.
 - 🌱 I'm currently practicing [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="40em" align="center" alt="React" title="React"/>]() among other things
-<!--[<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" height="40em" align="center" alt="Node" title="Node"/>]() [<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" height="40em" align="center" alt="MongoDB" title="MongoDB"/>]()  -->
 
 ## 🛠️ Technologies & Stats
 
