@@ -47,5 +47,6 @@
 ###
 
 ## 📫 How to reach me
-[![Linkedin: Celso Patiri](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-patiri-916051223/)](https://www.linkedin.com/in/celso-patiri-916051223/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:celsobenedetti2@gmail.com)](mailto:celsobenedetti2@gmail.com)
+<a href="https://www.linkedin.com/in/celso-patiri-916051223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:celsobenedetti2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
