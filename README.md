@@ -1,5 +1,5 @@
 
-## 👋 Hi there! I'm Celso 
+## Hi there! I'm Celso  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Enrolled in a Full-Stack Web Dev Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
