@@ -21,7 +21,7 @@
   <img align="center" title="HTML" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" title="CSS" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" title="Node.js" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" title="React" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<!--   <img align="center" title="React" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> -->
   <img align="center" title="express.js" alt="express.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" title="MongoDB" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" title="Java" alt="Java" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
