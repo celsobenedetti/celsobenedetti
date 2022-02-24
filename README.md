@@ -41,7 +41,7 @@
 
 <!--END_SECTION:waka-->
 <div>
- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celsopatiri&layout=compact&langs_count=6&custom_title=2022"/>
+ <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celsopatiri&layout=compact&langs_count=6&custom_title=Wakatime stats - 2022"/>
 </div>
 
 ###
