@@ -2,7 +2,7 @@
 ## Hi there! I'm Celso  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
-- 🚀 Enrolled in a Full-Stack Web Dev Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
+- 🚀 Enrolled in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
 - 🦕 I love coding, problem solving and learning new things.
 - 🌱 I'm currently learning [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="40em" align="center" alt="React" title="React"/>]() among other things
 
