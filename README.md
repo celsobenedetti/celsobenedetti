@@ -5,7 +5,7 @@
 - 🚀 Enrolled in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
 - 🌱 I'm currently learning [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="40em" align="center" alt="React" title="React"/>]() among other things
 
-## 🛠️ Technologies & Stats
+## 🛠️ Tools & Stats
 
 <div style="display: flex">   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=aura&custom_title=Most used languages&include_all_commits=true&count_private=true&title_color=3d94ff" height="180em"/>
