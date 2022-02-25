@@ -43,9 +43,10 @@ CSS          1 hr 2 mins     ██░░░░░░░░░░░░░░░
 JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
-<div>
+
+<!-- <div>
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celsopatiri&layout=compact&langs_count=6&custom_title=Wakatime stats - 2022"/>
-</div>
+</div> -->
 
 ###
 
