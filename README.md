@@ -34,7 +34,14 @@
 #
 
 <!--START_SECTION:waka-->
+```text
+From: 17 February, 2022 - To: 24 February, 2022
 
+JavaScript   10 hrs 48 mins  ███████████████████░░░░░░   76.48 % 
+HTML         1 hr 51 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+CSS          1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+```
 <!--END_SECTION:waka-->
 <div>
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celsopatiri&layout=compact&langs_count=6&custom_title=Wakatime stats - 2022"/>
