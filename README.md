@@ -35,13 +35,13 @@
 
 <!--START_SECTION:waka-->
 ```text
-From: 26 February, 2021 - To: 26 February, 2022
+From: 27 January, 2022 - To: 26 February, 2022
 
-JavaScript   73 hrs 36 mins  ██████████████▓░░░░░░░░░░   58.78 % 
-CSS          20 hrs 18 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-HTML         18 hrs 23 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-EJS          6 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Bash         2 hrs 24 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript   71 hrs 56 mins  ████████████████▒░░░░░░░░   65.93 % 
+CSS          12 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+HTML         12 hrs 3 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+EJS          6 hrs 20 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Bash         2 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 ```
 <!--END_SECTION:waka-->
 
