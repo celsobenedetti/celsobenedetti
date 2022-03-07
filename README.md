@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🌱 I'm currently learning [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="40em" align="center" alt="React" title="React"/>]() among other things
+- 🌱 I'm currently learning [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="37em" align="center" alt="React" title="React"/>]() among other things
 
 ## 🛠️ Skills & Stats
 
