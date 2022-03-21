@@ -50,7 +50,7 @@ Java               3 hrs 48 mins   █░░░░░░░░░░░░░░
  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=celsopatiri&layout=compact&langs_count=6&custom_title=Wakatime stats - 2022"/>
 </div> -->
 
-<a href="https://wakatime.com/@8a52c0fd-ec78-403a-81d0-07c674c564b3">
+<a href="https://wakatime.com/@8a52c0fd-ec78-403a-81d0-07c674c564b3" title="Wakatime 2022">
   <img src="https://wakatime.com/badge/user/8a52c0fd-ec78-403a-81d0-07c674c564b3.svg" alt="Total time coded since Jan 17 2022" title="Wakatime 2022" />
 </a>
 
