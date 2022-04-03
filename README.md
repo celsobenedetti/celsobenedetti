@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🦉 I'm mainly learning [<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" height="37em" align="center" alt="React" title="React"/>]() 
+- 🦉 I'm mainly learning [<img src="https://testing-library.com/img/octopus-64x64.png" height="30em" align="center" alt="React" title="React Testing Library"/>](https://testing-library.com/docs/react-testing-library/intro/) and [<img src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" height="30em" align="center" alt="React" title="Jest"/>](https://jestjs.io/)
 
 ## 🛠️ Skills & Stats
 
@@ -16,9 +16,11 @@
 
 <div style="display: flex">
  <img align="center" title="JavaScript" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+   <img align="center" title="React" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+ <img align="center" title="Node.js" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" title="HTML5" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" title="CSS3" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" title="Node.js" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+ 
   <img align="center" title="MongoDB" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
   <img align="center" title="Java" alt="Java" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" title="spring-boot" alt="spring-boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
