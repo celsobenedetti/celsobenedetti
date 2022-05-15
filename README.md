@@ -36,14 +36,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2022 - To: 13 May 2022
+From: 14 April 2022 - To: 14 May 2022
 
-Lua           58 hrs 47 mins  █████████░░░░░░░░░░░░░░░░   35.62 %
-JavaScript    48 hrs 11 mins  ███████▒░░░░░░░░░░░░░░░░░   29.20 %
-TypeScript    33 hrs 29 mins  █████░░░░░░░░░░░░░░░░░░░░   20.29 %
-JSON          6 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-YAML          3 hrs 8 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-fugitive      2 hrs 36 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+JavaScript    53 hrs 41 mins  ████████▒░░░░░░░░░░░░░░░░   33.00 %
+Lua           53 hrs 34 mins  ████████▒░░░░░░░░░░░░░░░░   32.93 %
+TypeScript    32 hrs 2 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+JSON          6 hrs 6 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+YAML          3 hrs 3 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+fugitive      2 hrs 31 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
