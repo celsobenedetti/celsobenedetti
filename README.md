@@ -4,11 +4,11 @@
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
 - 🦉 I'm currently learning OOP with [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28em" align="center" alt="TypeScript" title="TypeScript"/>](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) and [<img src="https://docs.nestjs.com/assets/logo-small.svg" height="33em" align="center" alt="NestJS" title="NestJS"/>](https://docs.nestjs.com/)
 
-## 🛠️ Skills & Stats
+## 🛠️ Skills & Tools
+
 <br/>
 
 <div align="" style="margin-top:1rem;">
-  
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -35,36 +35,25 @@
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
   ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
   -->
+  
  </div>
 
----
+## 🗿 Stats 
+
+<br/>
 
 <div style="display: flex" align="">   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=aura&custom_title=Most used languages&include_all_commits=true&count_private=true&title_color=3d94ff&langs_count=6" height="180em"/>
- <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=aura&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&title_color=3d94ff" height="180rem"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=aura&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&title_color=3d94ff" height="180rem"/>
   
 </div>
 
 ###
-<!--
-<div style="display: flex">
- <img align="center" title="JavaScript" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-   <img align="center" title="React" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
- <img align="center" title="Node.js" alt="Node.js" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" title="Jest" alt="Jest" height="32" width="32" src="https://cdn.freebiesupply.com/logos/large/2x/jest-logo-png-transparent.png" />
-  <img align="center" title="HTML5" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img align="center" title="CSS3" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
-  <img align="center" title="MongoDB" alt="MongoDB" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" title="Docker" alt="Docker" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img align="center" title="Git" alt="Git" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" title="Linux" alt="Linux" height="35" width="45"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
--->
 #
+<cr/>
 
 <!--START_SECTION:waka-->
 
@@ -86,7 +75,7 @@ Bash         4 hrs 43 mins   ▓░░░░░░░░░░░░░░░░
 </div> -->
 
 <a href="https://wakatime.com/@8a52c0fd-ec78-403a-81d0-07c674c564b3" title="Wakatime 2022">
-  <img src="https://wakatime.com/badge/user/8a52c0fd-ec78-403a-81d0-07c674c564b3.svg" alt="Total time coded since Jan 17 2022" title="Wakatime 2022" />
+  <img src="https://wakatime.com/badge/user/8a52c0fd-ec78-403a-81d0-07c674c564b3.svg" alt="Wakatime 2022" title="Time coded since Jan 17 2022" />
 </a>
 
 ###
