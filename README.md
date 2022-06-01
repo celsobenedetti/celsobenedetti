@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🦉 I'm currently learning [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28em" align="center" alt="TypeScript" title="TypeScript"/>](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) and [<img src="https://docs.nestjs.com/assets/logo-small.svg" height="33em" align="center" alt="NestJS" title="NestJS"/>](https://docs.nestjs.com/)
+- 🦉 I'm currently learning OOP with [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28em" align="center" alt="TypeScript" title="TypeScript"/>](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) and [<img src="https://docs.nestjs.com/assets/logo-small.svg" height="33em" align="center" alt="NestJS" title="NestJS"/>](https://docs.nestjs.com/)
 
 ## 🛠️ Skills & Stats
 
