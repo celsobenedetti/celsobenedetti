@@ -7,7 +7,7 @@
 ## 🛠️ Skills & Stats
 <br/>
 
-<div align="center" style="margin-top:1rem;">
+<div align="" style="margin-top:1rem;">
   
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -39,7 +39,7 @@
 
 ---
 
-<div style="display: flex" align="center">   
+<div style="display: flex" align="">   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=aura&custom_title=Most used languages&include_all_commits=true&count_private=true&title_color=3d94ff&langs_count=6" height="180em"/>
  <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=aura&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&title_color=3d94ff" height="180rem"/>
