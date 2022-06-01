@@ -9,8 +9,9 @@
 
 
 <div style="display: flex" align="center">   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=aura&custom_title=Most used languages&include_all_commits=true&count_private=true&title_color=3d94ff&langs_count=6" height="180em"/>
- <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=aura&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&title_color=3d94ff" height="180rem"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=aura&custom_title=Most used languages&include_all_commits=true&count_private=true&title_color=3d94ff&langs_count=6" height="180em" width="400em"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=aura&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&title_color=3d94ff" height="180rem" width="450em"/>
   
 </div>
 
