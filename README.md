@@ -9,7 +9,7 @@
 
 <br/>
 
-<div align="" style="margin-top:1rem;">
+<div align="">
   
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
   [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -43,7 +43,7 @@
 
 <br/>
 
-<div style="display: flex" align="">   
+<div align="">   
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=celso-patiri&layout=compact&exclude_repo=github-readme-stats,anuraghazra.github.io&theme=tokyonight&custom_title=Most used languages&include_all_commits=true&count_private=true&langs_count=6&bg_color=0d1117&hide_border=true" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api?username=celso-patiri&theme=tokyonight&custom_title=Celso's GitHub Stats&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" height="180rem"/>
