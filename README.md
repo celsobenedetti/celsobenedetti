@@ -59,14 +59,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 May 2022 - To: 14 June 2022
+From: 16 May 2022 - To: 15 June 2022
 
-TypeScript   39 hrs 11 mins  ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-Markdown     26 hrs 18 mins  █████░░░░░░░░░░░░░░░░░░░░   19.56 %
-JavaScript   17 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.33 %
-Lua          13 hrs 31 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
-JSON         6 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-i3config     6 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TypeScript   39 hrs 11 mins  ███████░░░░░░░░░░░░░░░░░░   28.57 %
+Markdown     26 hrs 35 mins  █████░░░░░░░░░░░░░░░░░░░░   19.38 %
+JavaScript   22 hrs 23 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.32 %
+Lua          12 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+JSON         6 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.69 %
+i3config     6 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
