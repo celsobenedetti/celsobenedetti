@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🦉 I'm currently learning OOP with [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="26em" align="center" alt="TypeScript" title="TypeScript"/>](https://www.typescriptlang.org/docs/handbook/2/basic-types.html) and [<img src="https://docs.nestjs.com/assets/logo-small.svg" height="31em" align="center" alt="NestJS" title="NestJS"/>](https://docs.nestjs.com/)
+- 🦉 I'm currently learning <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" height="25em" align="center" alt="Vue" title="Vue"/> and <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ruby_lang_logo_icon_170770.png" height="25em" align="center" alt="Ruby" title="Ruby"/> 
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
 ## 🛠️ Skills & Tools
@@ -12,8 +12,8 @@
 <div align="">
   
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
-  [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
   [![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/docs/)
+  [![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?logo=nestjs&logoColor=white&style=for-the-badge)](https://docs.nestjs.com/)
   [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
   [![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
   
