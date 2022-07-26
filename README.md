@@ -60,7 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 26 June 2022 - To: 26 July 2022
+
+TypeScript    54 hrs 10 mins  ████████▒░░░░░░░░░░░░░░░░   32.93 %
+Vue.js        24 hrs 21 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.81 %
+Markdown      18 hrs 41 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.37 %
+Lua           14 hrs 3 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+Ruby          11 hrs 34 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
+fugitive      8 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->
