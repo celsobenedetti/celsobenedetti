@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🦉 I'm currently learning <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" height="25em" align="center" alt="Vue" title="Vue"/> and <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ruby_lang_logo_icon_170770.png" height="25em" align="center" alt="Ruby" title="Ruby"/> 
+- 🦉 I'm currently learning <img src="https://cdn.freebiesupply.com/logos/large/2x/vue-9-logo-png-transparent.png" height="25em" align="center" alt="Vue" title="Vue"/> and <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FRuby_on_Rails_logo.png&f=1&nofb=1" height="25em" align="center" alt="Ruby on Rails" title="Ruby"/> 
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
 ## 🛠️ Skills & Tools
