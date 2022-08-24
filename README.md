@@ -60,14 +60,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 July 2022 - To: 22 August 2022
+From: 24 July 2022 - To: 23 August 2022
 
-Ruby                       35 hrs 33 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.70 %
-Lua                        32 hrs 58 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
-Vue.js                     30 hrs 50 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-TypeScript                 26 hrs 39 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-Markdown                   15 hrs 2 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-JavaScript                 8 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Ruby                       36 hrs 13 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
+Lua                        34 hrs 47 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.98 %
+Vue.js                     30 hrs 50 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
+TypeScript                 25 hrs 34 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.22 %
+Markdown                   15 hrs 31 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 %
+JavaScript                 8 hrs 43 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
