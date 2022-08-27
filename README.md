@@ -2,8 +2,12 @@
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Student in a Full-Stack Web Development Bootcamp with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🦉 I'm currently learning <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FRuby_on_Rails_logo.png&f=1&nofb=1" height="25em" align="center" alt="Ruby on Rails" title="Ruby on Rails"/>  and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="23em" align="center" alt="Golang" title="Golang"/>
+- 🦉 I'm currently learning <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FRuby_on_Rails_logo.png&f=1&nofb=1" height="25em" align="center" alt="Ruby on Rails" title="Ruby on Rails"/> 
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
+
+ <!--
+  and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="23em" align="center" alt="Golang" title="Golang"/>
+ -->
 
 ## 🛠️ Skills & Tools
 
