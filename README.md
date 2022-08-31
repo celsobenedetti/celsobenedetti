@@ -29,8 +29,8 @@
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?logo=SASS&logoColor=white&style=for-the-badge)
   [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-  ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-  ![cypress](https://img.shields.io/badge/-cypress-%23192634?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+  ![cypress](https://img.shields.io/badge/-cypress-%23058a5e?style=for-the-badge&logo=cypress&logoColor=192634)
  
 
    <strong><h3 align="left">Langs</h3></strong> 
