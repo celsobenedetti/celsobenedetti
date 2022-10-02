@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Full-Stack Web Developer with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🦉 I'm currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="18em" align="center" alt="Golang" title="Golang"/> and  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1024px-GraphQL_Logo.svg.png" height="25em" align="center" alt="GraphQL" title="GraphQL"/>
+- 🦉 I'm currently studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="18em" align="center" alt="Golang" title="Golang"/> and DSA
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
  <!--
