@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Celso
 
-- 🎓 Computer Science undergraduate at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
+- 🎓 Computer Science at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Full-Stack Web Developer with <a href="https://www.driven.com.br">Driven Education</a>  
 - 🦉 I'm currently studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="18em" align="center" alt="Golang" title="Golang"/> and DSA
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
@@ -9,7 +9,8 @@
   and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="23em" align="center" alt="Golang" title="Golang"/>
  -->
 
-## 🛠️ Skills
+<details>
+<summary>🛠 Skills</summary>
 
 <div align="">
 
@@ -74,10 +75,8 @@
   
 </div>
 
-###
+</details>
 
-
-#
 <cr/>
 
 <!--START_SECTION:waka-->
@@ -105,7 +104,13 @@ Vue.js                     5 hrs 30 mins   █░░░░░░░░░░░�
 
 ###
 
-## 📫 Reach me
-<a href="https://www.linkedin.com/in/celso-patiri-916051223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:celsobenedetti2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<details>
+ <summary>📫 Reach me</summary>
+ 
+ <br/>
+ 
+ <a href="https://www.linkedin.com/in/celso-patiri-916051223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href = "mailto:celsobenedetti2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</details>
+
 
