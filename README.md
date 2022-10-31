@@ -2,7 +2,7 @@
 
 - 🎓 Computer Science at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
 - 🚀 Full-Stack Web Developer with <a href="https://www.driven.com.br">Driven Education</a>  
-- 🦉 I'm currently studying <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="18em" align="center" alt="Golang" title="Golang"/> and DSA
+- 🦉 I'm currently learning <img src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" height="20em" align="center" alt="Angular" title="Angular"/>
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
  <!--
@@ -42,10 +42,11 @@
    ### _Languages_
 
  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/handbook/2/basic-types.html)
+ ![Go/Golang](https://img.shields.io/badge/go-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
   ![Java](https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+ ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+ ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
  
   ### _Tools_
  
