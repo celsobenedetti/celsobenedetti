@@ -86,14 +86,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 November 2021 - To: 22 November 2022
+From: 25 October 2022 - To: 24 November 2022
 
-JavaScript                 344 hrs 52 mins ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-TypeScript                 189 hrs         ███▓░░░░░░░░░░░░░░░░░░░░░   14.40 %
-Lua                        171 hrs 2 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.03 %
-Markdown                   96 hrs 51 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Go                         69 hrs 10 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Vue.js                     63 hrs 50 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Bash         7 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   28.28 %
+Ruby         4 hrs 50 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.38 %
+Lua          3 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+JavaScript   2 hrs 32 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+YAML         2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+Markdown     1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 ```
 
 <!--END_SECTION:waka-->
