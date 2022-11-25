@@ -1,7 +1,6 @@
 ## 👋 Hi there! I'm Celso
 
-- 🎓 Computer Science at <a href="https://www.unifal-mg.edu.br/portal/">Federal University of Alfenas</a>
-- 🚀 Full-Stack Web Developer with <a href="https://www.driven.com.br">Driven Education</a>  
+- 🚀 Computer Science, Software Engineering, Full-Stack Web Development  
 - 🦉 I'm currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png" height="20em" align="center" alt="Python" title="Python"/>
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
