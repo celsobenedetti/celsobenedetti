@@ -85,14 +85,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 November 2022 - To: 01 December 2022
+From: 02 November 2022 - To: 02 December 2022
 
-Bash         7 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
-Ruby         4 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Python       3 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-YAML         2 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Lua          2 hrs 8 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-Markdown     1 hr 24 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Bash         6 hrs 52 mins   ████████░░░░░░░░░░░░░░░░░   32.34 %
+Ruby         3 hrs 33 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.72 %
+Python       3 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
+YAML         2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.12 %
+Lua          2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 %
+Markdown     49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 ```
 
 <!--END_SECTION:waka-->
