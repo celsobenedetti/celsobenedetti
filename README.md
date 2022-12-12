@@ -85,7 +85,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 November 2022 - To: 10 December 2022
+From: 11 November 2022 - To: 11 December 2022
 
 Python       6 hrs 52 mins   ████████████▒░░░░░░░░░░░░   49.84 %
 TypeScript   3 hrs 10 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
