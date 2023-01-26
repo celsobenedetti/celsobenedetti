@@ -85,10 +85,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 December 2022 - To: 24 January 2023
+From: 26 December 2022 - To: 25 January 2023
 
-TypeScript   34 hrs 20 mins  █████████▓░░░░░░░░░░░░░░░   38.46 %
-Lua          20 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
+TypeScript   34 hrs 20 mins  █████████▓░░░░░░░░░░░░░░░   38.45 %
+Lua          20 hrs 31 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.99 %
 Java         11 hrs 51 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.28 %
 Python       5 hrs 6 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
 HTML         4 hrs 25 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
