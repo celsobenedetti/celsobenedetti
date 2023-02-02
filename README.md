@@ -1,11 +1,11 @@
 ## 👋 Hi there! I'm Celso
 
-- 🚀 Computer Science, Software Engineering, Full-Stack Web Development  
-- 🦉 I'm currently learning <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1280px-Python_logo_and_wordmark.svg.png" height="20em" align="center" alt="Python" title="Python"/>
+- 🚀 Software Engineering, Web Developmer  
+- 🦉 I'm currently interested in Go
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
  <!--
-  and <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height="23em" align="center" alt="Golang" title="Golang"/>
+  and <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png" height="23em" align="center" alt="Golang" title="Golang"/>
  -->
 
 <details>
