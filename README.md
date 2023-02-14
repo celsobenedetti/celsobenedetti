@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Celso
 
-- 🚀 Software Engineering, Web Developmer, DevOps
+- 🚀 Software Engineer, Web Developer, DevOps
 - 🦉 I'm currently interested in Go
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
