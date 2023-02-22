@@ -84,14 +84,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 January 2023 - To: 20 February 2023
+From: 22 January 2023 - To: 21 February 2023
 
-Go               26 hrs 17 mins  █████████▒░░░░░░░░░░░░░░░   37.11 %
-Markdown         20 hrs 41 mins  ███████▒░░░░░░░░░░░░░░░░░   29.21 %
-Lua              7 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
-TypeScript       3 hrs 18 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-HTML             2 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
-Java             2 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Go               28 hrs 13 mins  █████████▓░░░░░░░░░░░░░░░   38.57 %
+Markdown         20 hrs 41 mins  ███████░░░░░░░░░░░░░░░░░░   28.29 %
+Lua              7 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
+TypeScript       3 hrs 15 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+HTML             2 hrs 46 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Java             2 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
