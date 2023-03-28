@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Celso
 
 - 🚀 Software Engineer, Web Developer, DevOps
-- 🦉 I'm currently interested in Go
+- 🦉 I'm currently interested in microservices, Docker, Go and Java
 - 🧙‍♂️ I'm curious about technology and love to learn new stuff
 
  <!--
