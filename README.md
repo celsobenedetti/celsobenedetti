@@ -84,14 +84,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 March 2023 - To: 23 April 2023
+From: 25 March 2023 - To: 24 April 2023
 
-Markdown     30 hrs 27 mins  ███████▓░░░░░░░░░░░░░░░░░   31.32 %
-Java         15 hrs 41 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.13 %
-TypeScript   8 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
-YAML         7 hrs 15 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
-JavaScript   5 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 %
-XML          4 hrs 42 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Markdown                               29 hrs 45 mins  ███████▒░░░░░░░░░░░░░░░░░   29.85 %
+Java                                   17 hrs 17 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.35 %
+TypeScript                             8 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+YAML                                   8 hrs 3 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+XML                                    5 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+Docker                                 4 hrs 59 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
 ```
 
 <!--END_SECTION:waka-->
