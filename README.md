@@ -49,16 +49,15 @@
 <!-- ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white&style=for-the-badge) -->
 <!--  </div> -->
 
-<div style="border: 1px solid #51576d;max-width: 900px;margin: 2rem;"></div>
+#
 
 <div align="">
 
-<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=celsobenedetti&layout=compact&theme=tokyonight&custom_title=Languages&include_all_commits=true&count_private=true&langs_count=6&bg_color=0d1117&hide_border=true" height="180em"/>
-<img src="http://github-readme-stats.vercel.app/api?username=celsobenedetti&theme=tokyonight&custom_title=GitHub&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" height="180rem"/>
+<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=celsobenedetti&layout=compact&theme=tokyonight&custom_title=Languages&include_all_commits=true&count_private=true&langs_count=6&bg_color=303446&hide_border=true" height="180em" style="margin: 1rem;"/>
 
 </div>
 
-<div style="border: 1px solid #51576d;max-width: 900px;margin: 2rem;"></div>
+#
 
 </details>
 
