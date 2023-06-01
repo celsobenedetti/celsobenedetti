@@ -1,14 +1,12 @@
 <div align="center">
 
-## 👋 Hi there! I'm Celso
+## 👋 Hey there
 
-<div style="max-width: 500px; ">
+<div style="max-width: 300px; ">
 
-🚀 Software Engineer, Web Developer, DevOps
-
-🦉 I'm currently interested in T3, microservices, Docker, Go and Spring
-
-🧙‍♂️ I'm curious about technology and love to learn new stuff
+> 🦉 I'm a software engineer from Brazil, passionate about coding and learning new stuff.<br>
+> 🧙‍♂️ I'm interested in cloud, distributed systems, devops, and web development.<br>
+> ⌨️ I'm currently playing around with T3, microservices, Docker, Go and Spring.<br>
 
 </div>
 
