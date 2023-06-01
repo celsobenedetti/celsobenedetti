@@ -75,23 +75,14 @@ Bash             8 hrs 10 mins   █▒░░░░░░░░░░░░░�
 <img src="https://wakatime.com/badge/user/8a52c0fd-ec78-403a-81d0-07c674c564b3.svg" alt="Wakatime 2022" title="Time coded since Jan 17 2022" />
 </a>
 
-#
-
+<details>
+<summary>GitHub</summary>
 <div>
 
-<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=celsobenedetti&layout=compact&theme=tokyonight&custom_title=Languages&include_all_commits=true&count_private=true&langs_count=6&bg_color=303446&hide_border=true" height="180em" />
+<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=celsobenedetti&layout=compact&theme=tokyonight&custom_title=Languages&include_all_commits=true&count_private=true&langs_count=6&bg_color=0d1117&hide_border=true" height="180em"/>
+<img src="http://github-readme-stats.vercel.app/api?username=celsobenedetti&theme=tokyonight&custom_title=GitHub&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" height="180rem"/>
 
 </div>
-
-###
-
-<details>
-<summary>📫 Reach me</summary>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/celsobenedetti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:celsobenedetti2@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 </details>
+
 </div>
