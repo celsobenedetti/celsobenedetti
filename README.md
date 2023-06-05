@@ -6,7 +6,7 @@
 
 > 🦉 Software engineer from Brazil, passionate about coding and learning new stuff.<br>
 > 🧙‍♂️ I'm interested in cloud, distributed systems, devops, and web development.<br>
-> ⌨️ Playing around with T3, microservices, Docker, Go and Spring.<br>
+> ⌨️ Currently playing around with T3, microservices, Docker, Go and Spring.<br>
 
 </div>
 
