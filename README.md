@@ -77,8 +77,8 @@ Lua              6 hrs 25 mins   █░░░░░░░░░░░░░░�
 <summary>GitHub</summary>
 <div>
 
-<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=celsobenedetti&layout=compact&theme=tokyonight&custom_title=Languages&include_all_commits=true&count_private=true&langs_count=6&bg_color=0d1117&hide_border=true" height="180em"/>
-<img src="http://github-readme-stats.vercel.app/api?username=celsobenedetti&theme=tokyonight&custom_title=GitHub&include_all_commits=true&count_private=true&bg_color=0d1117&hide_border=true" height="180rem"/>
+<img src="http://github-readme-stats.vercel.app/api/top-langs/?username=celsobenedetti&layout=compact&custom_title=Languages&include_all_commits=true&count_private=true&langs_count=6&theme=transparent&bg_color=00000000" height="180em"/>
+<img src="https://streak-stats.demolab.com?user=celsobenedetti&theme=transparent" height="180rem"/>
 
 </div>
 </details>
