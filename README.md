@@ -10,7 +10,7 @@
 
 </div>
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,go,nodejs,nestjs,spring,react,nextjs,docker,ansible" width="325"  style="margin-top:1rem;"/>
+<img src="https://skillicons.dev/icons?i=ts,js,java,go,nodejs,nestjs,spring,react,nextjs,docker" width="325"  style="margin-top:1rem;"/>
 
 <!-- <details> -->
 <!-- <summary>🛠 Other Skills</summary> -->
