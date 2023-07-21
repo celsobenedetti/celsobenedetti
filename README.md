@@ -4,7 +4,7 @@
 
 <div style="max-width: 300px; ">
 
-> 🦉 Software engineer from Brazil, passionate about coding and learning new stuff.<br>
+> 🦉 Software engineer passionate about coding and learning new stuff.<br>
 > 🧙‍♂️ I'm interested in cloud, distributed systems, devops, and web development.<br>
 > ⌨️ Currently learning K8s, microservices and Go.<br>
 
