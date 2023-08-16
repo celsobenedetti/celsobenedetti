@@ -56,13 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 July 2023 - To: 14 August 2023
+From: 16 July 2023 - To: 15 August 2023
 
-Markdown     30 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-Go           16 hrs 13 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Java         14 hrs 41 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-TypeScript   13 hrs 42 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
-YAML         12 hrs 6 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.13 %
+Markdown     33 hrs 16 mins  ██████▓░░░░░░░░░░░░░░░░░░   27.19 %
+Go           16 hrs 51 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.78 %
+Java         14 hrs 56 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+YAML         12 hrs 18 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+TypeScript   10 hrs 48 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
 ```
 
 <!--END_SECTION:waka-->
