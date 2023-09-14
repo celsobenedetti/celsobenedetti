@@ -56,13 +56,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 12 September 2023
+From: 14 August 2023 - To: 13 September 2023
 
-Markdown         42 hrs 37 mins  ████████░░░░░░░░░░░░░░░░░   31.83 %
-Python           22 hrs 21 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
-Go               20 hrs 36 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.39 %
-YAML             11 hrs 16 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
-Java             9 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 %
+Markdown         45 hrs 12 mins  ████████▒░░░░░░░░░░░░░░░░   33.02 %
+Python           22 hrs 9 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.19 %
+Go               19 hrs 53 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.53 %
+YAML             11 hrs 11 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 %
+Java             10 hrs 42 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
 ```
 
 <!--END_SECTION:waka-->
