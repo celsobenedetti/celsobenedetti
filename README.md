@@ -6,7 +6,7 @@
 
 > 🦉 Software engineer passionate about coding and learning new stuff.<br>
 > 🧙‍♂️ I'm interested in cloud, distributed systems, devops, and web development.<br>
-> ⌨️ Currently learning K8s, microservices and Go.<br>
+> ⌨️ Currently learning Go.<br>
 
 </div>
 
