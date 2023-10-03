@@ -17,7 +17,7 @@
 
 <cr/>
 
-<div style="max-width: 700px;">
+<div style="max-width: 700px;" align="center">
 
 <!--START_SECTION:waka-->
 
