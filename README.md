@@ -12,12 +12,10 @@
 
 #
 
-<details>
+<details align="center">
 <summary>Stats</summary>
 
 <cr/>
-
-<p align="center">
 
 <!--START_SECTION:waka-->
 
@@ -33,7 +31,6 @@ Lua               3 hrs 3 mins    ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</p>
   
 <div>
 
