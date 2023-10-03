@@ -17,7 +17,7 @@
 
 <cr/>
 
-<div style="max-width: 700px;" align="center">
+<p align="center">
 
 <!--START_SECTION:waka-->
 
@@ -33,7 +33,7 @@ Lua               3 hrs 3 mins    ▓░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-</div>
+</p>
   
 <div>
 
