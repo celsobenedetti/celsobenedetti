@@ -17,6 +17,7 @@
 
 <cr/>
 
+<p style="text-align: center;">
 <!--START_SECTION:waka-->
 
 ```txt
@@ -30,7 +31,7 @@ Lua               3 hrs 3 mins    ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
+</p>
   
 <div>
 
