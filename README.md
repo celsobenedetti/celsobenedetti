@@ -4,8 +4,8 @@
 
 <div style="max-width: 300px; ">
 
-> 🦉 I love building and learning, from high-level solutions to low-level computer science.<br>
-> 🧙‍♂️ Interested in distributed systems, cloud-native solutions, IaC, DevOps, and web development.<br>
+> 🧙‍♂️ I love building and learning, from high-level solutions to low-level computer science.<br>
+> 🦉 Interested in distributed systems, cloud-native solutions, IaC, DevOps, and web development.<br>
 > ⌨️ Currently studying Go and distributed systems.<br>
 
 </div>
