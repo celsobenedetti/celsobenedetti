@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 September 2023 - To: 04 October 2023
+From: 05 September 2023 - To: 05 October 2023
 
-Markdown          45 hrs 34 mins  ████████▒░░░░░░░░░░░░░░░░   33.27 %
-Go                38 hrs 59 mins  ███████░░░░░░░░░░░░░░░░░░   28.46 %
-Python            20 hrs 58 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
-YAML              8 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-Lua               3 hrs 4 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Markdown          47 hrs 39 mins  █████████░░░░░░░░░░░░░░░░   35.55 %
+Go                38 hrs 59 mins  ███████▒░░░░░░░░░░░░░░░░░   29.08 %
+Python            15 hrs 35 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
+YAML              8 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Lua               3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
 ```
 
 <!--END_SECTION:waka-->
