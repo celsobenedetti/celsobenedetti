@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2023 - To: 22 November 2023
+From: 24 October 2023 - To: 23 November 2023
 
-Go                27 hrs 16 mins  ███████▓░░░░░░░░░░░░░░░░░   30.74 %
-Markdown          19 hrs 50 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.35 %
-YAML              9 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Makefile          6 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
-swayconfig        4 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
+Go                27 hrs 14 mins  ███████▒░░░░░░░░░░░░░░░░░   29.55 %
+Markdown          21 hrs 57 mins  ██████░░░░░░░░░░░░░░░░░░░   23.82 %
+YAML              7 hrs 26 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+TypeScript        6 hrs 40 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Makefile          6 hrs 23 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
 ```
 
 <!--END_SECTION:waka-->
