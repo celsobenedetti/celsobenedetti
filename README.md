@@ -24,13 +24,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 November 2023 - To: 24 December 2023
+From: 25 November 2023 - To: 25 December 2023
 
-Markdown      38 hrs 54 mins  ███████▒░░░░░░░░░░░░░░░░░   29.44 %
-TypeScript    34 hrs 32 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.13 %
-Go            14 hrs 26 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-YAML          8 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-Lua           7 hrs 39 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+Markdown     37 hrs 30 mins  ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+TypeScript   34 hrs 36 mins  ███████░░░░░░░░░░░░░░░░░░   27.60 %
+Go           14 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
+YAML         7 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Lua          6 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
 ```
 
 <!--END_SECTION:waka-->
