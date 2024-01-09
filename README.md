@@ -6,9 +6,7 @@
 
 > 🧙‍♂️ I love building and learning, from high-level solutions to low-level computer science.<br>
 > 🦉 Interested in distributed systems, cloud-native solutions, IaC, DevOps, and web development.<br>
-> ⌨️ Currently focusing on Next, Nest and GraphQL.<br>
-
-[![My Skills](https://skillicons.dev/icons?i=next,nest,graphql)](https://skillicons.dev)
+> ⌨️ Currently focusing on Next and GraphQL.<br>
 
 </div>
 
