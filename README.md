@@ -21,13 +21,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 December 2023 - To: 11 January 2024
+From: 13 December 2023 - To: 12 January 2024
 
-Markdown     29 hrs 42 mins  ████████▒░░░░░░░░░░░░░░░░   33.31 %
-TypeScript   20 hrs 41 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.20 %
-Go           9 hrs 41 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
-YAML         5 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-JavaScript   4 hrs 11 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+Markdown     30 hrs 25 mins  ████████▒░░░░░░░░░░░░░░░░   33.95 %
+TypeScript   23 hrs 43 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.49 %
+Go           6 hrs 35 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
+JavaScript   4 hrs 41 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
+YAML         4 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
 ```
 
 <!--END_SECTION:waka-->
