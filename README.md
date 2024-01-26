@@ -1,19 +1,7 @@
 <div align="center">
 
-## Hey there, I'm Celso 🙂
-
-<div style="max-width: 300px; ">
-
-> 🧙‍♂️ I love building and learning, from high-level solutions to low-level computer science.<br>
-> 🦉 Interested in distributed systems, cloud-native solutions, IaC, DevOps, and web development.<br>
-> ⌨️ Currently focusing on Next and GraphQL.<br>
-
-</div>
-
-#
-
-<details align="center">
-<summary>Stats</summary>
+<!-- <details align="center"> -->
+<!-- <summary>Stats</summary> -->
 
 <cr/>
 
@@ -46,6 +34,6 @@ YAML         2 hrs 36 mins   ▓░░░░░░░░░░░░░░░░
 <!-- <img src="https://wakatime.com/badge/user/8a52c0fd-ec78-403a-81d0-07c674c564b3.svg" alt="Wakatime 2022" title="Time coded since Jan 17 2022" /> -->
 <!-- </a> -->
 
-</details>
+<!-- </details> -->
 
 </div>
