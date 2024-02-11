@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2024 - To: 09 February 2024
+From: 11 January 2024 - To: 10 February 2024
 
-Markdown     61 hrs 20 mins  ██████████▓░░░░░░░░░░░░░░   43.27 %
-TypeScript   57 hrs 4 mins   ██████████░░░░░░░░░░░░░░░   40.26 %
-Bash         5 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
-Lua          5 hrs 25 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-JavaScript   3 hrs 18 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Markdown     63 hrs 6 mins   ███████████░░░░░░░░░░░░░░   44.31 %
+TypeScript   54 hrs 43 mins  █████████▓░░░░░░░░░░░░░░░   38.42 %
+Lua          6 hrs 13 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Bash         5 hrs 47 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 %
+JavaScript   3 hrs 7 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
