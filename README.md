@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2024 - To: 03 August 2024
+From: 05 July 2024 - To: 04 August 2024
 
-TypeScript   47 hrs 34 mins  █████████████░░░░░░░░░░░░   52.29 %
-Markdown     31 hrs 19 mins  ████████▓░░░░░░░░░░░░░░░░   34.43 %
-Bash         4 hrs           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-JSON         2 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-JavaScript   1 hr 50 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+TypeScript   48 hrs 57 mins  █████████████▓░░░░░░░░░░░   54.56 %
+Markdown     29 hrs 33 mins  ████████▒░░░░░░░░░░░░░░░░   32.95 %
+Bash         3 hrs 29 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+JSON         2 hrs 45 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JavaScript   1 hr 42 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
