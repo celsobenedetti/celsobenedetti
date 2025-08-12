@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 July 2025 - To: 10 August 2025
+From: 12 July 2025 - To: 11 August 2025
 
-TypeScript                 52 hrs 16 mins  ████████░░░░░░░░░░░░░░░░░   31.50 %
-Lua                        36 hrs 43 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.13 %
-Markdown                   26 hrs 51 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
-Org                        19 hrs 22 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.68 %
-Go                         9 hrs 13 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.56 %
+TypeScript                 52 hrs 16 mins  ████████░░░░░░░░░░░░░░░░░   32.48 %
+Lua                        36 hrs 10 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.47 %
+Markdown                   23 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+Org                        18 hrs 37 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.57 %
+Go                         9 hrs 10 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
 ```
 
 <!--END_SECTION:waka-->
