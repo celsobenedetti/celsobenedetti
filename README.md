@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 19 January 2026
+From: 21 December 2025 - To: 20 January 2026
 
-Org           43 hrs 5 mins   ███████████▓░░░░░░░░░░░░░   46.27 %
-Lua           11 hrs 37 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
-TypeScript    10 hrs 53 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.69 %
-Markdown      10 hrs 28 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Bash          3 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Org           45 hrs 30 mins  ███████████▓░░░░░░░░░░░░░   46.16 %
+Markdown      12 hrs 57 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
+Lua           11 hrs 28 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+TypeScript    10 hrs 54 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+Bash          3 hrs 49 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
 ```
 
 <!--END_SECTION:waka-->
