@@ -3,13 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 February 2026 - To: 26 March 2026
+From: 25 February 2026 - To: 27 March 2026
 
-Org                        48 hrs 2 mins         ███████▒░░░░░░░░░░░░░░░░░   29.34 %
-Python                     32 hrs 21 mins        █████░░░░░░░░░░░░░░░░░░░░   19.77 %
-Lua                        20 hrs 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 %
-Markdown                   15 hrs 25 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-TypeScript                 9 hrs 52 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Org                        48 hrs                ███████▒░░░░░░░░░░░░░░░░░   29.29 %
+Python                     32 hrs 46 mins        █████░░░░░░░░░░░░░░░░░░░░   19.99 %
+Lua                        19 hrs 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.78 %
+Markdown                   15 hrs 15 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+sh                         10 hrs 5 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.16 %
 ```
 
 <!--END_SECTION:waka-->
